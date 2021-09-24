@@ -16,7 +16,7 @@
         daapi.addGlobalAction({
           key: 'sandboxHard',
           action: {
-            title: 'Sandbox Hard',
+            title: 'Set To Sandbox Hard',
             icon: daapi.requireImage('/sandbox_hard/allo.svg'),
             isAvailable: true,
             process: {
@@ -29,7 +29,7 @@
         daapi.addGlobalAction({
           key: 'sandboxHard',
           action: {
-            title: 'Sandbox Easy',
+            title: 'Set To Sandbox Easy',
             icon: daapi.requireImage('/sandbox_hard/ace.svg'),
             isAvailable: true,
             process: {
