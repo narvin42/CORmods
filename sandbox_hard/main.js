@@ -17,7 +17,7 @@
           key: 'sandboxHard',
           action: {
             title: 'Sandbox Hard',
-            icon: daapi.requireImage('/sandbox_hard/allo.svg'),
+            icon: daapi.requireImage('/sandbox_hard/ace.svg'),
             isAvailable: true,
             process: {
               event: '/sandbox_hard/main',
@@ -30,7 +30,7 @@
           key: 'sandboxHard',
           action: {
             title: 'Sandbox Easy',
-            icon: daapi.requireImage('/sandbox_hard/ace.svg'),
+            icon: daapi.requireImage('/sandbox_hard/allo.svg'),
             isAvailable: true,
             process: {
               event: '/sandbox_hard/main',
